@@ -11,14 +11,14 @@
 </p>
 
 ---
-## 📈 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=Zaminali1&label=Profile%20views&color=0e75b6&style=flat)
 ## 🏆 GitHub Trophies
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Zaminali1&theme=tokyonight&margin-w=5)
 
 ---
+
+## 📈 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zaminali1&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🔥 Latest Project: Smart Todo AI Agent 🤖
 
