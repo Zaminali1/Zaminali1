@@ -1,13 +1,11 @@
 <h1 align="center">👋 Hi, I'm Zamin Ali Khushk</h1>
 
 <p align="center">
-  🧠 Frontend Developer | 🤖 Agentic AI Explorer | 🌱 Disciplined & Curious  
+  🧠 Frontend Developer | 🤖learning MERN full Stack| 🌱 Disciplined & Curious  
 </p>
 
 <p align="center">
-  I'm currently learning <b>OpenAI's Agent SDK</b> to build intelligent, memory-based agents.  
-  Soon diving deep into advanced frameworks like <b>LangGraph, CrewAI, and LangChain</b>.  
-  I love building clean UIs and smart AI systems — with direction, purpose, and a lot of learning.
+  I am currently learning and diving deep into MERN Stack Development, building a strong foundation in MongoDB, Express.js, React, and Node.js. My focus is on mastering full-stack application architecture, creating scalable APIs, and developing modern, responsive front-end interfaces.</br> I aim to grow as a developer by building real-world projects, improving problem-solving skills, and contributing to meaningful open-source work along the way
 </p>
 
 ---
